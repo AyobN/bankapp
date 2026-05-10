@@ -58,3 +58,7 @@ All customers use the password `password123`.
 | 400000004      | 100000004 | 3,200.50   | Tax Savings        |
 | 500000001      | 100000005 | 450.00     | —                  |
 | 500000002      | 100000005 | 8,900.25   | Investment         |
+
+---------------------
+
+More diagrams can be found in architecture.md
